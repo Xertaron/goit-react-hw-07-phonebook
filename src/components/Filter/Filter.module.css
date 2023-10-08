@@ -1,0 +1,12 @@
+.filter {
+  margin-bottom: 15px;
+}
+
+.filterHeader {
+  color: rgb(112, 166, 247);
+  margin-top: 5px;
+}
+
+.filterInput {
+  margin: 10px;
+}
